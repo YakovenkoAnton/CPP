@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Pr11_Ex1_2_3_4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Pr11_Ex1_2_3.cpp
+  Pr11_Ex1_2_3_4.vcxproj -> C:\Users\index\source\repos\cpp\Pr11_Ex1_2_3_4\Debug\Pr11_Ex1_2_3.exe

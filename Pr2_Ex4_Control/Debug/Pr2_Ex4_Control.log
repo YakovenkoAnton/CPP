@@ -1,0 +1,3 @@
+﻿  Pr2_Ex4_Control.cpp
+C:\Users\index\source\repos\cpp\Pr2_Ex4_Control\Pr2_Ex4_Control.cpp(57,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pr2_Ex4_Control.vcxproj -> C:\Users\index\source\repos\cpp\Pr2_Ex4_Control\Debug\Pr2_Ex4_Control.exe

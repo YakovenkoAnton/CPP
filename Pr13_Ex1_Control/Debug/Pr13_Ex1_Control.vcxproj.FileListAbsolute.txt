@@ -1,0 +1,2 @@
+C:\Users\index\source\repos\cpp\Pr13_Ex1_Control\Debug\Pr13_Ex1_Control.exe
+C:\Users\index\source\repos\cpp\Pr13_Ex1_Control\Debug\Pr13_Ex1_Control.pdb

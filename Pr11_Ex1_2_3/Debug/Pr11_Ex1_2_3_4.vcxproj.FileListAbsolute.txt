@@ -1,0 +1,4 @@
+C:\Users\index\source\repos\Pr11_Ex1_2_3_4\Debug\Pr11_Ex1_2_3.exe
+C:\Users\index\source\repos\Pr11_Ex1_2_3_4\Debug\Pr11_Ex1_2_3.pdb
+C:\Users\index\source\repos\cpp\Pr11_Ex1_2_3_4\Debug\Pr11_Ex1_2_3.exe
+C:\Users\index\source\repos\cpp\Pr11_Ex1_2_3_4\Debug\Pr11_Ex1_2_3.pdb

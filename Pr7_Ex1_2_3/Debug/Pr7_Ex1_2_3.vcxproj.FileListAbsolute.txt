@@ -1,0 +1,4 @@
+C:\Users\index\source\repos\Pr7_Ex1_2_3\Debug\Pr7_Ex1_2_3.exe
+C:\Users\index\source\repos\Pr7_Ex1_2_3\Debug\Pr7_Ex1_2_3.pdb
+C:\Users\index\source\repos\cpp\Pr7_Ex1_2_3\Debug\Pr7_Ex1_2_3.exe
+C:\Users\index\source\repos\cpp\Pr7_Ex1_2_3\Debug\Pr7_Ex1_2_3.pdb

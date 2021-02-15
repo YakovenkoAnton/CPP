@@ -1,0 +1,2 @@
+C:\Users\index\source\repos\cpp\Pr1_Ex3\Debug\Pr1_Ex3.exe
+C:\Users\index\source\repos\cpp\Pr1_Ex3\Debug\Pr1_Ex3.pdb
